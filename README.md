@@ -1,5 +1,5 @@
 # CodeCoverage
-An example of using jacoco on about code coverage
+An example of using JaCoCo on about code coverage
 
 
 ![image](https://user-images.githubusercontent.com/5441882/148996985-edd50317-3fc2-4368-a200-69cbd04841d2.png)
