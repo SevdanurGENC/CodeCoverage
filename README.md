@@ -57,3 +57,12 @@ An example of using JaCoCo on about code coverage
         </plugins>
         </build>
 ```
+
+![image](https://user-images.githubusercontent.com/5441882/149001304-93cde08f-759b-439d-8afa-789b9ffca9fc.png)
+
+![image](https://user-images.githubusercontent.com/5441882/149001325-d0ee3549-1037-489b-9227-6f8ba829c1bc.png)
+
+![image](https://user-images.githubusercontent.com/5441882/149001366-7eccf3e6-ba1d-4af3-b2bf-7e8ea752ffd0.png)
+
+![image](https://user-images.githubusercontent.com/5441882/149001401-d5c178fa-3408-43f9-96c6-954bf63f048b.png)
+
